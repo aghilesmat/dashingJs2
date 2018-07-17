@@ -10,8 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "precommit": "npm run lint",
-    "test:cover": "rm -rf ./coverage && ng test -no-watch --code-corverage",
-    "coveralls": "cat ./coverage/lconf.info | ./node_module/coveralls/bin/coveralls.js"
+    "test:cover": "rm -rf ./coverage && ng test -no-watch --code-corverage"
   },
   "private": true,
   "dependencies": {
