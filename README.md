@@ -1,5 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/aghilesmat/dashingJs2/badge.svg?branch=master)](https://coveralls.io/github/aghilesmat/dashingJs2?branch=master)
-https://travis-ci.org/aghilesmat/dashingJs2.svg?branch=master
+[![Build Status](https://travis-ci.org/aghilesmat/dashingJs2.svg?branch=master)](https://travis-ci.org/aghilesmat/dashingJs2)
 
 # DashingJs2
 
