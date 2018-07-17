@@ -12,7 +12,6 @@
     "precommit": "npm run lint",
     "test:cover":"rm -rf ./coverage && run test -no-watch --code-coverage",
     "corveralls": "cat ./coverage/lcov.info | ./node_module/coveralls/bin/coveralls.js"
-    
   },
   "private": true,
   "dependencies": {
