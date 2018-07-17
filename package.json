@@ -9,7 +9,10 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "precommit": "npm run lint"
+    "precommit": "npm run lint",
+    "test:cover":"rm -rf ./coverage && run test -no-watch --code-coverage",
+    "corveralls": "cat ./coverage/lcov.info | ./node_module/coveralls/bin/coveralls.js"
+    
   },
   "private": true,
   "dependencies": {
@@ -35,6 +38,7 @@
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "~6.0.60",
     "codelyzer": "^4.0.1",
+    "coveralls": "^3.0.2",
     "husky": "^0.14.3",
     "jasmine-core": "~2.6.2",
     "jasmine-spec-reporter": "~4.1.0",
