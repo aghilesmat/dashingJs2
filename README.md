@@ -1,6 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/aghilesmat/dashingJs2/badge.svg?branch=master)](https://coveralls.io/github/aghilesmat/dashingJs2?branch=master)
 [![Build Status](https://travis-ci.org/aghilesmat/dashingJs2.svg?branch=master)](https://travis-ci.org/aghilesmat/dashingJs2)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b4432bd6a8424e4e96c599c9c651a4bc)](https://www.codacy.com/project/aghilesmat/dashingJs2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aghilesmat/dashingJs2&amp;utm_campaign=Badge_Grade_Dashboard)
 # DashingJs2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
